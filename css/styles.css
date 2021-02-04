@@ -1,3 +1,4 @@
+/********TAG SELECTORS******/
 body{
     background-color: #EAF6F6;
 }
@@ -22,9 +23,17 @@ h3 {
     color: #66BFBF;
 }
 
+/******Class Selectors****/
+
+.circular {
+    border-radius: 100%;
+}
+
 .hobby {
     color: #3c4242;
 }
+
+/********ID Selector********/
 
 #detail {
     color: #3c4242;
